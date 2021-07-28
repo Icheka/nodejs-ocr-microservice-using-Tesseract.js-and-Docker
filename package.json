@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-ocr-microservice-using-tesseract.js-and-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icheka/nodejs-ocr-microservice-using-Tesseract.js-and-Docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Icheka/nodejs-ocr-microservice-using-Tesseract.js-and-Docker/issues"
+  },
+  "homepage": "https://github.com/Icheka/nodejs-ocr-microservice-using-Tesseract.js-and-Docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
